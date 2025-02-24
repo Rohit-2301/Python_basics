@@ -1,3 +1,6 @@
+print("without argument")
+
+
 def greet():
     print("hello")
 
@@ -5,6 +8,7 @@ def greet():
 greet()
 
 # with argument
+print("with argument")
 
 
 def Name(name):
@@ -24,6 +28,8 @@ print(add(10, 20))
 
 # default parameter
 
+print("default parameter")
+
 
 def greet(name="Guest"):
     print(f"Hello, {name}!")
@@ -34,6 +40,7 @@ greet("Rohit")  # Uses "Rohit"
 
 
 # lambda function
+print("lambda fxn")
 def square(x): return x*x
 
 
@@ -41,6 +48,7 @@ print(square(4))
 # cube = lambda y: y*y*y
 # print(cube(4))
 
+print("practice question")
 # Write a function multiply(a, b) that returns the product of two numbers.
 
 

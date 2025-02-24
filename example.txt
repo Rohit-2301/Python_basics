@@ -1,0 +1,3 @@
+this is file handling
+-w mode is used to write inside a file
+-a is used for appending in the same file

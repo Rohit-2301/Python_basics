@@ -45,6 +45,8 @@ for i in range(1, 10):
     print(i, end=" ")
 print()
 
+print("practice questions")
+
 # Write a Python program to print all even numbers from 1 to 20 using a for loop.
 for i in range(1, 10):
     if i % 2 == 0:
@@ -56,4 +58,3 @@ while i >= 1:
     print(i, end=" ")
     i -= 1
 print()
-

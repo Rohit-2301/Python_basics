@@ -34,6 +34,8 @@ fruits.remove("tomato")  # remove specific element
 print(fruits)
 fruits.pop()  # remove last element
 print(fruits)
+print("practice questions")
+
 
 # Create a list of 5 numbers and print their total_sum.
 num = [1, 2, 3, 4, 5]
