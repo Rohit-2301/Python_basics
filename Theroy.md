@@ -117,5 +117,5 @@ except NegativeValueError as e:
 ```
 
 ---
-### **This concludes the theory part. Now, let's move to the CLI Project! 🚀**
+
 
