@@ -2,7 +2,7 @@
 # **CLI-Based Student Management System – Beginner's Guide**
 
 ## **1. Introduction**
-A **Command Line Interface (CLI) Student Management System** is a simple application that allows users to manage student records efficiently using only the terminal. The system supports essential **CRUD (Create, Read, Update, Delete)** operations.
+A **Command Line Interface (CLI) Student Management System** is a simple application that allows users to manage student records efficiently using only the terminal. 
 
 This project is implemented using **Python** and focuses on key programming concepts like:
 - Functions & Classes
